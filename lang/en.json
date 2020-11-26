@@ -1,0 +1,22 @@
+{
+  "SENRqu": {
+    "defaultMessage": "Help",
+    "description": "Button label for help"
+  },
+  "345": {
+    "defaultMessage": "Please contact administrator ",
+    "description": "Message when an unknown error occurs"
+  },
+  "678": {
+    "defaultMessage": "Select a task to continue",
+    "description": "Breadcrumb button label to select task"
+  },
+  "91011": {
+    "defaultMessage": "No tasks available.",
+    "description": "Label when there are no tasks available"
+  },
+  "121314": {
+    "defaultMessage": "Create Task",
+    "description": "Button label to create task"
+  }
+}
