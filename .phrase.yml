@@ -1,0 +1,13 @@
+phrase:
+  access_token: 5cd4eef2f4fbd3553fd360acf3b7248d787b456056939d264b0711040173cae7
+  project_id: cbdcd4c2f21f4ebb55a0d4e133bee208
+  push:
+    sources:
+    - file: ./lang/en.json
+      params:
+        file_format: react_simple_json
+  pull:
+    targets:
+    - file: ./lang/<locale_name>.phrase.json
+      params:
+        file_format: react_simple_json
