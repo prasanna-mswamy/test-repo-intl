@@ -18,5 +18,9 @@
   "121314": {
     "defaultMessage": "Create Task",
     "description": "Button label to create task"
+  },
+  "new": {
+    "defaultMessage": "Create Project",
+    "description": "Button label to create project"
   }
 }
